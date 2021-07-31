@@ -1,15 +1,15 @@
-link = "https://us05web.zoom.us/j/9549146713?pwd=WjJjeXZxOVlwM2JDelFLdEEvMkxKdz09"
+link = "https://class link" # May be multiple , according to your time table
 import time
 from selenium import webdriver
 
-driver = webdriver.Chrome('C:\Program Files (x86)\chromedriver')
+driver = webdriver.Chrome('path')
 
 def join1():
     driver.get(link)
     time.sleep(30) 
     alert = driver.switch_to_alert()
     alert.accept()
-    time.sleep(3600)
+    time.sleep(3600) # 1 hour = 3600 seconds
     driver.quit()
 
 def join2():
