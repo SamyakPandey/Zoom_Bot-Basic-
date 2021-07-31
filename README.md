@@ -1,3 +1,7 @@
+# Function
+
+Helps you to join class on time 
+
 # Zoom_Bot-Basic-
 
 This is not to skip your classes , just to join on time .
@@ -14,3 +18,7 @@ You can either paste link or write a input function .
 # Zoom_Bot-Advanced-
 
 I use this , it has (i) Input Function (ii) Acess to whatsapp to automatically get class links (iii) Progress - under development[Bug Fixing]
+
+# Selenium
+
+Web Framework for bots and testing (Web Scraping too) .
