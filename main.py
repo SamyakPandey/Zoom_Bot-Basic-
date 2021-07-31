@@ -20,7 +20,7 @@ def saturday():
 day = (e.strftime("%a"))
 print(day)
 
-if day == "Sat": # You can code mor multiple dates , just copy and edit
+if day == "Sat": # You can code for multiple dates , just copy and edit
     saturday()
 
 else:
