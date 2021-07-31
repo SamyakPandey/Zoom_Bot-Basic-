@@ -1,5 +1,5 @@
-firstClass =  ("16:10") # Time Of your classes 
-secondClass = ("17:10")
+firstClass =  ("16:10") # Time Of your classes , depends on your timetable
+secondClass = ("17:10") # Note:- Time in military time(24 hr format) is manodatory
 thirdClass = ("18:10")
 
 
