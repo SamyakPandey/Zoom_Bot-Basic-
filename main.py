@@ -1,6 +1,6 @@
-firstClass =  ("16:10")
-secondClass = ("17:20")
-thirdClass = ("18:30")
+firstClass =  ("16:10") # Time Of your classes 
+secondClass = ("17:10")
+thirdClass = ("18:10")
 
 
 
@@ -20,7 +20,7 @@ def saturday():
 day = (e.strftime("%a"))
 print(day)
 
-if day == "Sat":
+if day == "Sat": # You can code mor multiple dates , just copy and edit
     saturday()
 
 else:
