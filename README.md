@@ -13,4 +13,4 @@ You can either paste link or write a input function .
 
 # Zoom_Bot-Advanced-
 
-I use this , it has (i) Input Function (ii) Acess to whatsapp to automatically get class links (iii) Progress under development[Bug Fixing]
+I use this , it has (i) Input Function (ii) Acess to whatsapp to automatically get class links (iii) Progress - under development[Bug Fixing]
